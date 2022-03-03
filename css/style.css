@@ -1,0 +1,180 @@
+.body {
+    background-color: #ffffff;
+    font-family: 'lato', sans-serif;
+
+}
+
+.Menu {
+    position: absolute;
+    width: 603px;
+    height: 28px;
+    left: 499px;
+    top: 32px;
+
+    
+}
+
+.novidades {
+    position: absolute;
+    width: 99px;
+    height: 28px;
+    left: 251px;
+    top: 0px;
+
+    display: flex;
+    align-items: center;
+
+    text-decoration: none;
+    color: #1F1F1F;
+}
+
+.feminino {
+    position: absolute;
+    width: 83px;
+    height: 28px;
+    left: 126px;
+    top: 0px;
+
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #1F1F1F;
+}
+
+.masculino {
+    position: absolute;
+    width: 92px;
+    height: 28px;
+    left: 0px;
+    top: 0px;
+    
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #1F1F1F;
+}
+
+.ofertas {
+    position: absolute;
+    width: 70px;
+    height: 28px;
+    left: 392px;
+    top: 0px;
+
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #1F1F1F;
+}
+
+.coleçoes {
+    position: absolute;
+    width: 86px;
+    height: 28px;
+    left: 504px;
+    top: 0px;
+
+    display: flex;
+    align-items: center;
+
+}
+
+.search {
+    position: absolute;
+    width: 235px;
+    height: 52px;
+    right: 148px;
+    top: 20px;
+
+    background: #F2F2F2;
+    border-radius: 50px;
+
+}
+
+.bag {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    right: 72px;
+    top: 20px;
+
+    border-radius: 50px;
+    background: #F2F2F2;
+}
+
+.image-corra {
+    position: absolute;
+    width: 1600px;
+    height: 720px;
+    left: 0px;
+    top: 4240px;
+}
+
+.SNEAK {
+
+    position: absolute;
+    width: 67px;
+    height: 28px;
+    left: 80px;
+    top: 32px;
+
+    display: flex;
+    align-items: center;
+}
+.ultra-light {
+    position: absolute;
+    width: 581px;
+    height: 208px;
+    left: 0px;
+    top: 11px;
+}
+
+.First-screen {
+    position: absolute;
+    width: 1469.16px;
+    height: 581px;
+    left: 80px;
+    top: 172px;
+}
+
+.Group-19 {
+    position: absolute;
+    width: 1440px;
+    height: 767px;
+    left: 80px;
+    top: 953px;
+}
+
+.Leveza-e-agilidade {
+    position: absolute;
+    width: 1440px;
+    height: 600px;
+    left: 80px;
+    top: 1920px;
+
+}
+
+.Image-corra {
+    position: absolute;
+    width: 1600px;
+    height: 720px;
+    left: 0px;
+    top: 4160px;
+}
+
+.group-12 {
+    position: absolute;
+    width: 1440px;
+    height: 838px;
+    left: 80px;
+    top: 5160px;
+}
+
+.class-20 {
+    position: absolute;
+    width: 1600px;
+    height: 374px;
+    left: 0px;
+    top: 6158px;
+}
+
